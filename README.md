@@ -1,1 +1,1 @@
-# Python_-_Programmation_orientee_objet
+# Python et programmation orientée objet
