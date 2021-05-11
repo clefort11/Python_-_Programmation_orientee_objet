@@ -1,5 +1,7 @@
 # Python et programmation orientée objet
 
+L'objet de ce repository est de présenter les compétences acquises en programmation orientée objet au cours de la formation Jedha Bootcamp dans le cadre de mon projet de reconversion professionnelle dans les métiers de la Data. Il se veut un outil facilement accessible pour les recruteurs qui souhaitent en savoir plus sur mon profil.
+
 - Sur la base des exercices de formation proposés le premier notebook "01_Build_a_quizz" m'a permis d'appréhender les notions de boucle et de condition.
 
 - Le deuxième notebook "02_Rebuild_a_quizz" m'a permis d'optimiser le code via l'utilisation de fonctions. J'ai poussé l'exercice un peu plus loin en utilisant une classe pour permettre un paramétrage facile et sur mesure du questionnaire (paramétrer le nombre de droit à l'erreur pour réussir le quizz, changer les questions...).
